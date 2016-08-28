@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEA", "HEA\HEA.csproj", "{F4B35DA1-0908-4E90-AA5B-8822DCAF05E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaDB", "CargaDB\CargaDB.csproj", "{87045B4D-6CB4-4204-BFD4-8D1FE328AEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo.Redis", "Ejemplo.Redis\Ejemplo.Redis.csproj", "{001C08F3-40FC-42A6-BFE7-A6BDE5C785A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo.RedisHashObject", "Ejemplo.RedisHashObject\Ejemplo.RedisHashObject.csproj", "{1701DB84-DE8F-4770-B00E-52BEEFBC950C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo.RedisHash", "Ejemplo.RedisHash\Ejemplo.RedisHash.csproj", "{912D2278-3645-4915-8535-F83BC4862370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo.Lucene", "Ejemplo.Lucene\Ejemplo.Lucene.csproj", "{D3901E8E-34FF-4A4A-8FCF-0E26C75CC215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaWS", "CargaWS\CargaWS.csproj", "{D1F28DC2-192B-4A66-89E5-B9E885CE1212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B35DA1-0908-4E90-AA5B-8822DCAF05E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B35DA1-0908-4E90-AA5B-8822DCAF05E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B35DA1-0908-4E90-AA5B-8822DCAF05E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B35DA1-0908-4E90-AA5B-8822DCAF05E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87045B4D-6CB4-4204-BFD4-8D1FE328AEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87045B4D-6CB4-4204-BFD4-8D1FE328AEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87045B4D-6CB4-4204-BFD4-8D1FE328AEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87045B4D-6CB4-4204-BFD4-8D1FE328AEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001C08F3-40FC-42A6-BFE7-A6BDE5C785A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001C08F3-40FC-42A6-BFE7-A6BDE5C785A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001C08F3-40FC-42A6-BFE7-A6BDE5C785A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001C08F3-40FC-42A6-BFE7-A6BDE5C785A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1701DB84-DE8F-4770-B00E-52BEEFBC950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1701DB84-DE8F-4770-B00E-52BEEFBC950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1701DB84-DE8F-4770-B00E-52BEEFBC950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1701DB84-DE8F-4770-B00E-52BEEFBC950C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912D2278-3645-4915-8535-F83BC4862370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D2278-3645-4915-8535-F83BC4862370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D2278-3645-4915-8535-F83BC4862370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D2278-3645-4915-8535-F83BC4862370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3901E8E-34FF-4A4A-8FCF-0E26C75CC215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3901E8E-34FF-4A4A-8FCF-0E26C75CC215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3901E8E-34FF-4A4A-8FCF-0E26C75CC215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3901E8E-34FF-4A4A-8FCF-0E26C75CC215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F28DC2-192B-4A66-89E5-B9E885CE1212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F28DC2-192B-4A66-89E5-B9E885CE1212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F28DC2-192B-4A66-89E5-B9E885CE1212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F28DC2-192B-4A66-89E5-B9E885CE1212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
